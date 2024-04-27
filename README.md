@@ -1,2 +1,1 @@
-start exe file
-запустите файл exe
+To open the program you need to install extensions - PyQt5
