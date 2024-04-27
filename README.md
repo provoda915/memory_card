@@ -1,2 +1,2 @@
-# memory_card
-memory card
+start exe file
+запустите файл exe
